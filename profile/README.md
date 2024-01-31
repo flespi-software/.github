@@ -1,5 +1,7 @@
 ## Flespi is a Telematics/IoT hub and mqtt broker
 
+![Flespi usage scheme](https://github.com/flespi-software/.github/blob/main/profile/flespi-scheme.png?raw=true)
+
 With flespi you can:
 
  - [Connect IoT and telematics devices](https://flespi.com/kb/quick-start-guide-physical-tracker) by multiple manufacturers
